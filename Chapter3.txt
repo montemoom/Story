@@ -1,1 +1,3 @@
 I like learning web development. 
+I'm making changes today. 
+Let me commit without adding to staging area to see what happens.
